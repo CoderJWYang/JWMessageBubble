@@ -1,5 +1,5 @@
 # JWMessageBubble
-When having message, the bubble will notify us to check. It has a interesting view.
+###仿QQ中消息提示数的粘性小球
 ![Demo.gif](https://github.com/CoderJWYang/JWMessageBubble/blob/master/demo.gif)
 ###How to use
 ```objc
@@ -35,5 +35,5 @@ bubble.viscosity = 0.1;
 
 ```
 
-###myBlog 
-http://www.jianshu.com/users/3e3d3a20b8dd/latest_articles
+###MyBlog 
+http://www.jianshu.com/p/58a36d93aaf6
